@@ -5,8 +5,8 @@ server_config : _nameless.54e.4440 {
  description: "Hébergeur YorkHost.fr"
  welcome_message: ""
  password: ""
- max_players: 127
- max_vehicles_total: 127
+ max_players: 128
+ max_vehicles_total: 128
  max_ai_vehicles_player: 50
  max_ai_vehicles_player_spawn: 50
  connection_virtual_port: 100
